@@ -1,0 +1,13 @@
+.h-25{
+    margin: -15px;
+    padding: -10px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+.bg{
+    background-color: lightgray;
+}
+.navbar-brand img {
+    height: 50px;
+    width: 200px;
+}
